@@ -5,7 +5,7 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=orifjonovich)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=]orifjonovich)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=orifjonovich)
 
 ![GitHub metrics](https://metrics.lecoq.io/orifjonovich)  
 
